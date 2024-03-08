@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+output/
+results
+R/dev*.R
+sequences
+raw_data/bacteria_trees
